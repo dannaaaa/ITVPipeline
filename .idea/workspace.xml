@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ac31ab-05d1-4fa8-b95e-8e718f56c581" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSiteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSiteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/ITVSiteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/ITVSiteTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ITVSiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -101,6 +106,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1583330806750">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583330806750" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1583330806748">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583330806748" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1583330806747">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583330806747" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1583330806749">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583330806749" />
     <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1583329556300">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
