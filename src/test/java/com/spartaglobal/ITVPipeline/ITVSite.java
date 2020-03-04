@@ -15,6 +15,7 @@ public class ITVSite {
        this.driver = driver;
 
        this.itvHomepage = new ITVHomepage(driver);
+       this.itvSignin = new ITVSignin(driver);
    }
 
    public  ITVHomepage itvHomepage(){

@@ -20,7 +20,7 @@ public class ITVSiteTest {
         itvSite = new ITVSite(chromeDriverConfig.getDriver());
 
         itvSite.itvHomepage();
-    //    itvSite.itvSignin().clickOnSignin();
+     //   itvSite.itvSignin().clickOnSignin();
 
     }
 

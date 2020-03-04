@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ac31ab-05d1-4fa8-b95e-8e718f56c581" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSiteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSiteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spartaglobal/ITVPipeline/ITVSiteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spartaglobal/ITVPipeline/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spartaglobal/ITVPipeline/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/ITVSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/ITVSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/ITVSiteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/ITVSiteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/Pages/ITVHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/Pages/ITVHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/Pages/ITVSignin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/Pages/ITVSignin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/SeleniumConfig/SeleniumConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spartaglobal/ITVPipeline/SeleniumConfig/SeleniumConfig.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
