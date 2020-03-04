@@ -6,9 +6,7 @@ import com.spartaglobal.ITVPipeline.SeleniumConfig.SeleniumConfig;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-/**
- * Unit test for simple App.
- */
+
 public class ITVSiteTest {
 
     private static ITVSite itvSite;

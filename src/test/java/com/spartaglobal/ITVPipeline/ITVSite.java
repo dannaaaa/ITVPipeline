@@ -5,7 +5,6 @@ import com.spartaglobal.ITVPipeline.Pages.ITVSignin;
 import org.openqa.selenium.WebDriver;
 
 public class ITVSite {
-
     private WebDriver driver;
     private ITVHomepage itvHomepage;
     private ITVSignin itvSignin;
@@ -18,13 +17,11 @@ public class ITVSite {
        this.itvSignin = new ITVSignin(driver);
    }
 
-   public  ITVHomepage itvHomepage(){
-       return itvHomepage;
+   public ITVHomepage itvHomepage(){
+       return itvHomepage.goToHomepage();
    }
 
    public ITVSignin itvSignin(){
        return itvSignin;
    }
-
-
 }
